@@ -1,0 +1,20 @@
+{
+  "supervised": {
+    "median_gain_error_pct": 1065.5583302831342,
+    "median_rin_error_pct": 33.270498844303276,
+    "mean_gain_error_pct": 1126.907419080744,
+    "mean_rin_error_pct": 34.537845273248784,
+    "share_within_5pct": 0.0003333333333333333,
+    "share_within_10pct": 0.0013333333333333333,
+    "mean_resistor_gap_decades": 0.782439022219861
+  },
+  "physics-informed": {
+    "median_gain_error_pct": 1.2631498303777184,
+    "median_rin_error_pct": 2.3619324767105656,
+    "mean_gain_error_pct": 1.859624849300367,
+    "mean_rin_error_pct": 2.909391775933956,
+    "share_within_5pct": 0.841,
+    "share_within_10pct": 0.957,
+    "mean_resistor_gap_decades": 0.865234067236881
+  }
+}
